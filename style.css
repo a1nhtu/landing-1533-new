@@ -553,14 +553,17 @@ tr:hover td {
 /* Specs layout updates */
 .specs-content {
     display: flex;
+    flex-wrap: wrap;
     gap: 3rem;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .specs-image {
     flex: 1;
-    max-width: 400px;
-    display: flex;
+    min-width: 300px;
+    text-align: center;
+    position: sticky;
+    top: 100px;
     justify-content: center;
 }
 
