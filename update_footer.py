@@ -22,7 +22,7 @@ new_footer_html = """    <footer class="footer">
                 <div class="footer-col" style="padding-top: 5px;">
                     <h3 class="footer-title" style="font-size: 1.1rem; margin-bottom: 1.5rem;">Liên Hệ</h3>
                     <ul class="footer-links">
-                        <li><i class="fas fa-phone-alt"></i> 0372.669.992 (Hotline)</li>
+                        <li><i class="fas fa-phone-alt"></i> 0964 523 531 (Hotline)</li>
                         <li><i class="fab fa-zalo"></i> 0372.669.992 (Zalo)</li>
                         <li><i class="fas fa-envelope"></i> tudigiplus.vn@gmail.com</li>
                     </ul>
@@ -31,7 +31,7 @@ new_footer_html = """    <footer class="footer">
                 <div class="footer-col" style="padding-top: 5px;">
                     <h3 class="footer-title" style="font-size: 1.1rem; margin-bottom: 1.5rem;">Hotline Tư Vấn</h3>
                     <div class="footer-hotline-box">
-                        <div class="fh-number">0372.669.992</div>
+                        <div class="fh-number">0964.523.531</div>
                         <div class="fh-text">Hỗ trợ 24/7</div>
                     </div>
                     <p class="footer-address">
@@ -40,7 +40,7 @@ new_footer_html = """    <footer class="footer">
                     <div class="footer-social">
                         <a href="https://www.facebook.com/Digiplus.vn/" class="social-icon fb"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://zalo.me/0372669992" class="social-icon zl"><span class="zalo-text-icon" style="font-size: 0.6rem; color: #fff;">Zalo</span></a>
-                        <a href="tel:0372669992" class="social-icon ph"><i class="fas fa-phone-alt"></i></a>
+                        <a href="tel:0964523531" class="social-icon ph"><i class="fas fa-phone-alt"></i></a>
                     </div>
                 </div>
             </div>
